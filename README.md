@@ -9,3 +9,14 @@
 
 >**[JayJin](https://github.com/milooy)님, [Lee HyunJoo](https://wayhome25.github.io/)님, [RingoPPA](https://github.com/ksu3101)님, [namjunemy](https://github.com/namjunemy)님의 Github TIL을 보고 많은 영감을 얻었다.**<br>
 **감사드립니다.🙇‍♀**
+
+
+  ## 작성 규칙
+
+* 폴더와 파일명은 영문으로 작성한다.
+* commit 명은 최대한 업로드하는 파일명과 동일하게 한다.
+* 해당 문서를 다시 봤을 때, 추가적인 검색의 비용이 들지 않도록 자세히 기록한다.
+* 더 많은 공유를 원하는 기록은 [블로그](https://record-minchae.tistory.com/)에 포스팅한다.
+* 쉴 땐 확실히 쉬고, 집중할때는 집중하기.
+* contributions를 초록색으로 채우는 것에 집착하지 않도록 노력한다.
+* reference를 명시하고, 원작자가 참고를 허용하는 자료만 사용한다.
