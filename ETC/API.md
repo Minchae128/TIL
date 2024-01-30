@@ -54,3 +54,9 @@ Ex) 식당에서 고객에서 주문 가능한(선택 가능한) 메뉴를 보�
 * public API와 partner API를 이용할 경우
     - 기업은 타사 데이터를 활용하여 브랜드 인지도를 높일수 있고, <br>
       고객 데이터 베이스를 확장하여 전환율까지 높일 수 있다.
+
+# Reference
+* https://www.youtube.com/watch?v=ckSdPNKM2pY
+* https://yozm.wishket.com/magazine/detail/53/
+* https://aws.amazon.com/ko/what-is/api/
+* https://brunch.co.kr/@operator/65
