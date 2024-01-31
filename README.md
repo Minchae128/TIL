@@ -24,4 +24,4 @@
 
 ## 분류
 ### ETC
-* [API 란?](https://github.com/Integerous/TIL/blob/master/ETC/mineSweeper.md)
+* [API 란?](https://github.com/Minchae128/TIL/blob/main/ETC/API.md)
