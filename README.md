@@ -25,3 +25,4 @@
 ## 분류
 ### ETC
 * [API 란?](https://github.com/Minchae128/TIL/blob/main/ETC/API.md)
+* [REAT API 란?](https://github.com/Minchae128/TIL/blob/main/ETC/REST_API.md)
