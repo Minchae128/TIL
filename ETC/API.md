@@ -120,8 +120,6 @@ API 아키텍처는 **클라이언트**와 **서버**로 설명된다.<br>
     - 기업은 타사 데이터를 활용하여 브랜드 인지도를 높일수 있고, <br>
       고객 데이터 베이스를 확장하여 전환율까지 높일 수 있다.
 
-# API 사용 방법
-
 # Reference
 * https://www.youtube.com/watch?v=ckSdPNKM2pY
 * https://yozm.wishket.com/magazine/detail/53/
@@ -129,3 +127,4 @@ API 아키텍처는 **클라이언트**와 **서버**로 설명된다.<br>
 * https://brunch.co.kr/@operator/65
 * https://luvris2.tistory.com/530
 * https://jinnypark9393.github.io/220707-cs-api/
+* https://m.blog.naver.com/eunpiggy98/222158296091
