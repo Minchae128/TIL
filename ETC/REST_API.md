@@ -1,15 +1,34 @@
 > *개인적인 학습을 위해 작성한 내용입니다. 옳은 내용만 작성하려 노력했지만 내용에 오류가 있을 수 있습니다.*
 
 
-# REST API 란?
-Application Programming Interface 약자로<br>
-한 프로그램에서 다른 프로그램으로 데이터를 주고 받기 위한 방법.<br>
-(위 설명에서 방법은 코드이다. / 모든 프로그램은 API를 가질 수 있다.)
+# REST 란?
+- **REST** : Representational State Transfer 의 약자로 '네트워크에서 통신을 구성할 때 이런 구조로 설계하라는 지침' 
+<br>
+> 즉,<br> 
+    1. HTTP URI(Uniform Resource Identifier)를 통해 자원(Resource)을 명시
+<br>
+    2. HTTP Method(POST, GET, PUT, DELETE, PATCH 등)를 통해
+<br>
+    3. 해당 자원(URI)에 대한 CRUD Operation을 적용하는 것을 의미
 
-> Ex) <br>1. 식당에서 고객에서 주문 가능한(선택 가능한) 메뉴를 보여주고 손님이 고른 음식을 주방에 전달 후,<br>&nbsp;&nbsp;&nbsp;&nbsp;음식이 나오면 고객에게 전달하는 '점원'이 API이다. <br>
-       2. 손님(프로그램)이 주문할 수 있게 메뉴(명령 목록)를 정리하고,
-       주문(명령)을 받으면 요리사(응용프로그램)와 상호작용하여 요청된 메뉴(명령에 대한 값)을 전달
-       <br><br><b>즉, API는 프로그램들이 서로 상호작용하는 것을 도와주는 매개체로 볼 수 있음.</b>
+- **REST 구성 요소**
+  1. 자원 (Resource) : HTTP URI
+  2. 자원에 대한 행위 (Verb) : HTTP Method
+  3. 자원에 대한 행위의 내용 (Repressentations) : HTTP Message Pay Load 
+
+- **REST 특징**
+  1. Server-Client (서버-클라이언트 구조)
+  2. Stateless (무상태)
+  3. Cacheable (캐시 처리 가능)
+  4. Layered System (계층화)
+  5. Uniform Interface (인터페이스 일관성)
+
+# REST API 란?
+- 
+
+# REST API 특징
+
+# REST API 장단점
 
 
 # REST API의 역할
@@ -34,3 +53,6 @@ Application Programming Interface 약자로<br>
 
 
 # Reference
+* https://stdio-han.tistory.com/88
+* https://velog.io/@taeha7b/api-restapi-restfulapi
+* https://aws.amazon.com/ko/what-is/restful-api/
