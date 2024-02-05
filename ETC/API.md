@@ -128,3 +128,4 @@ API 아키텍처는 **클라이언트**와 **서버**로 설명된다.<br>
 * https://luvris2.tistory.com/530
 * https://jinnypark9393.github.io/220707-cs-api/
 * https://m.blog.naver.com/eunpiggy98/222158296091
+* https://velog.io/@taeha7b/api-restapi-restfulapi
