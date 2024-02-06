@@ -31,6 +31,7 @@
   5. Uniform Interface (인터페이스 일관성)
 
 # REST API 란?
+- 두 개의 컴퓨터가 인터넷을 통해 정보를 안전하게 교환하기 위해 사용하기 인터페이스
 - REST 기반으로 서비스 API를 구현한 것
 - 최근 OpenAPI(누구나 사용할 수 있도록 공개된 API (ex) 구글맵, 공공 데이터 등)), <br> 마이크로 서비스(하나의 큰 애플리케이션을 여러 개의 작은 애플리케이션으로 쪼개어 변경과 조합이 가능하도록 만든 아키텍처)등을 제공하는 업체 대부분은 REST API를 제공한다.
 
@@ -39,6 +40,15 @@
 - REST는 HTTP표준을 기반으로 구현하므로, HTTP를 지원하는 프로그램 언어로 클라이언트, 서버를 구현할 수 있다.
 - 즉, REST API를 제작하면 델파이 클라이언트 뿐 아니라, 자바, C#, 웹 등을 이용해 클라이언트를 제작할 수있다.
 # REST API 장단점
+**장점**
+  1. 쉬운사용 (Easy to use)
+  2. Complete Seperation between Client and Server
+  3. Detail expression for specific data type
+  <br>
+
+**단점**
+  1. Restriction of HTTP Method
+  2. 표준의 부재 (Absence of Standard) 
 
 
 # REST API의 역할
@@ -68,3 +78,5 @@
 * https://aws.amazon.com/ko/what-is/restful-api/
 * https://khj93.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-REST-API%EB%9E%80-REST-RESTful%EC%9D%B4%EB%9E%80
 * https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html
+* https://velog.io/@gimminjae/REST-API%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%EC%99%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EA%B0%80
+* https://wallees.wordpress.com/2018/04/19/rest-api-%EC%9E%A5%EB%8B%A8%EC%A0%90/
