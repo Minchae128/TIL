@@ -50,7 +50,6 @@
   1. Restriction of HTTP Method
   2. 표준의 부재 (Absence of Standard) 
 
-
 # REST API의 역할
 1. API는 서버와 데이터베이스에 대한 출입구 역할을 한다.
     - 데이터베이스에는 수 많은 정보들이 저장된다. 그래서 불특정 다수의 사람들이 데이터베이스에    
