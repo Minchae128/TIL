@@ -4,3 +4,4 @@
 
 
 # Reference
+* https://www.cloudflare.com/ko-kr/learning/ddos/glossary/hypertext-transfer-protocol-http/
