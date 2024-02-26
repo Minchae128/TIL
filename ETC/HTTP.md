@@ -9,21 +9,21 @@
         3. JSON, XML(API)
         4. 거의 모든 형태의 데이커가 전송 가능
     - 서버간에 데이터를 주고 받을 떄 대부분 HTTP라는 프로토콜을 사용해서 통신한다고 보면 된다.
+<br>
 
-    > 예를 들어 
-        인터넷 주소를 지정할때, <b>http://www.naver.com</b>와 같이 시작하는 것은,<br> <b>www.naver.com</b>이라는 인터넷 주소가 가진 데이터 정보 등의 교환을 HTTP통신 규약대로 처리하라는 것을 의미 한다.
-        <br><br>
-        또한 인터넷 기반 서비스에는 HTTP외에도 Email, FTP, DNS, NEWS등이 있다.
+> 예를 들어, 
+        인터넷 주소를 지정할때, http://www.naver.com 와 같이 시작하는 것은,
+        <br> www.naver.com 이라는 인터넷 주소가 가진 데이터 정보 등의 교환을 HTTP통신 규약대로 처리하라는 것을 의미 한다.
+        <br> 또한 인터넷 기반 서비스에는 HTTP외에도 Email, FTP, DNS, NEWS등이 있다.
 
 # HTTP의 통신 구조
 - HTTP통신은 <b>클라이언트(Front-End)</b>와 <b>서버(Back-End)</b>로 나위어진 구조로 되어 있다.
 - 클라이언트가 요청하면 서버(Request)가 응답(Response) 하는 것이다.
+<br>
 
 > 예를 들어,
-<br>
-클라이언트가 HTTP메세지를 만들어 보내고, 서버에서 요청에 대한 응답이 올 때까지 기다린다.
-<br>
-그리고 서버는 요청에 대한 결과를 만들어서 응답한다.
+<br>클라이언트가 HTTP메세지를 만들어 보내고, 서버에서 요청에 대한 응답이 올 때까지 기다린다.
+<br>그리고 서버는 요청에 대한 결과를 만들어서 응답한다.
 
 ### HTTP통신을 하는데 있어, 왜 클라이언트와 서버를 분리해야 할까?
 - 각자의 역할에 집중할 수 있기 때문!!
@@ -73,7 +73,7 @@
 <br>
 
 <details>
-<summary>3. <b>3xx(리다이렉션)</b> : 완전한 처리를 위해서 추가 동작이 필요한 경우입니다. 주로 서버의 주소 또는 요청한 URI의 웹 문서가 이동되었으니 그 주소로 다시 시도하라는 의미입니다.</summary>
+<summary>3. <b>3xx(리다이렉션)</b> : 완전한 처리를 위해서 추가 동작이 필요한 경우입니다. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;주로 서버의 주소 또는 요청한 URI의 웹 문서가 이동되었으니 그 주소로 다시 시도하라는 의미입니다.</summary>
 
 |상태 코드|상태 텍스트|한국어 뜻|서버 측면에서의 의미|
 |---|---|---|---|
@@ -133,7 +133,7 @@
 <br>
 
 <details>
-<summary>5. <b>5xx(서버 오류)</b> : 서버 사정으로 메시지 처리에 문제가 발생한 경우입니다. 서버의 부하, DB 처리 과정 오류, 서버에서 익셉션이 발생하는 경우를 의미합니다.</summary>
+<summary>5. <b>5xx(서버 오류)</b> : 서버 사정으로 메시지 처리에 문제가 발생한 경우입니다. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;서버의 부하, DB 처리 과정 오류, 서버에서 익셉션이 발생하는 경우를 의미합니다.</summary>
 
 |상태 코드|상태 텍스트|한국어 뜻|서버 측면에서의 의미|
 |---|---|---|---|
