@@ -27,3 +27,6 @@
 * [API](https://github.com/Minchae128/TIL/blob/main/ETC/API.md)
 * [REAT API](https://github.com/Minchae128/TIL/blob/main/ETC/REST_API.md)
 * [HTTP](https://github.com/Minchae128/TIL/blob/main/ETC/HTTP.md)
+
+### 자료구조_알고리즘
+ * [코딩테스트에 필요한 자바](https://github.com/Minchae128/TIL/blob/main/자료구조_알고리즘/ETC.md)
