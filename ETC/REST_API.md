@@ -4,12 +4,11 @@
 # REST 란?
 - **REST** : Representational State Transfer 의 약자로 '네트워크에서 통신을 구성할 때 이런 구조로 설계하라는 지침' 
 <br>
+
 > 즉,<br> 
     1. HTTP URI(Uniform Resource Identifier)를 통해 자원(Resource)을 명시
-<br>
-    2. HTTP Method(POST, GET, PUT, DELETE, PATCH 등)를 통해
-<br>
-    3. 해당 자원(URI)에 대한 CRUD Operation을 적용하는 것을 의미
+<br> 2. HTTP Method(POST, GET, PUT, DELETE, PATCH 등)를 통해
+<br>3. 해당 자원(URI)에 대한 CRUD Operation을 적용하는 것을 의미
 
 <br>
 
