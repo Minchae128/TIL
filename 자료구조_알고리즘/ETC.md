@@ -14,31 +14,26 @@
 **Case1.** 모든 자료형에서 표현이 불가능한 경우 -> 정답 값을 XX로 나눈 나머지를 출력하세요.
 <br><br>
 **Case2.** int 로는 불가능하고 long으로 표현 가능한 경우 -> 별도 언급 없음
-<br><br>
+
+<br>
+
 **이럴 때 의심해보세요!!**
 <br>
 -> 특정 테스트 케이스에서 **실패**
 <br>
 -> 테스트 케이스 성공! But **믿지 마세요** 
 
+<br>
+
 > Ex)
-<br>
-int answer = 1000000000;
-<br>
-answer += 2000000000;
-<br>
-System.out.println(answer);
-<br>
-**= -1294967296**
-<br>
-<br>
-long answer = 1000000000;
-<br>
-answer += 2000000000;
-<br>
-System.out.println(answer);
-<br>
-= 3000000000
+<br>int answer = 1000000000;
+<br>answer += 2000000000;
+<br>System.out.println(answer);
+<br>**= -1294967296**
+<br><br>long answer = 1000000000;
+<br>answer += 2000000000;
+<br>System.out.println(answer);
+<br>= 3000000000
 
 <span style="font-size: 25px;"><b>웬만하면 long 사용!!!</b></span>
 
