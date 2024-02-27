@@ -83,7 +83,18 @@ src="https://github.com/Minchae128/TIL/assets/122027566/f03a39e8-021c-4e85-8987-
 <span style="font-size: 25px;">++i 그리고 i++ <b>동작방식의 차이를 이해하고 사용하기!!</b></span>
 
 ## 4. Array 오름차순 정렬 VS Array 내림차순 정렬
+- 오름차순(ASC) : 갈수록 숫자가 커지는 정렬 (1 -> 2-> 3 -> 4 -> ...)
+- 내림차순(DESC) : 갈수록 숫자가 작아지는 정렬 (5 -> 4 -> 3 -> 2 -> 1)
 
+> Ex)<br> <img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/2fb780ad-0f34-47c3-beca-19d69bc5a055">
+<br> - 오름차순 : Arrays.sort()
+<br><br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/44c20361-954f-4aec-aa88-da800c8cbe08">
+ <br> <b>이 내림차순 방법은 아주 깔끔하지 않음 WHY?</b>
+<br> - 내림차순을 하기 위해 <br>&nbsp;&nbsp;<b>Collections.reverseOrder()</b>사용 (Collections.reverseOrder()는 객체 형태만 적용 가능 그래서 배열선언을 Integer로 함)
+<br><br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/1be2a3a8-952a-4e8e-bd34-aa40c6c5336c">
+ <br> <b>이 방법은 친근한 int로 로직을 이어갈 수 있어 좋지만, 문법이 길어 외우기 힘들다.</b>
+ <br><br><img width="395" src="https://github.com/Minchae128/TIL/assets/122027566/3869fb4f-0bf0-4073-8ab1-7a0565f805b0">
+ <br> 이방법은 -1을 곱하는것이 어려울 수 있다.
 
 ## 5. Comparable
 
