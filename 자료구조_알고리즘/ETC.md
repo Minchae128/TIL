@@ -3,7 +3,7 @@
 - int  : -2147483648 ~ 2147483647
 - long : -9223372036854775808 ~ 9223372036854775807
      
-<img width="515" alt="Snag_32b9718f" src="https://github.com/Minchae128/TIL/assets/122027566/36f0bb06-b447-45fb-bf6a-32f4aaa30300">
+<img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/36f0bb06-b447-45fb-bf6a-32f4aaa30300">
 <br>
 <br>
 
@@ -40,7 +40,7 @@
 ## 2. Scanner VS BufferedReader 
 ### 코딩테스트에서 Scanner 보다 **BufferedReader**이 더 좋다!!
 ### WHY? 
-<img width="500" alt="Snag_32ebcd48" src="https://github.com/Minchae128/TIL/assets/122027566/eace151c-6ce3-4f39-b7e9-fbd5c94d4d5f">
+<img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/eace151c-6ce3-4f39-b7e9-fbd5c94d4d5f">
 <br><br>
 
 > **이럴 때 의심해보세요!!**
@@ -70,14 +70,37 @@
 <br>
 <span style="font-size: 25px;"><b>입력 데이터가 많다면 BufferedReader 사용!!</b></span>
 
-## 3. i++ VS ++i
+## 3. ++i VS i++ 
+- ++i : 전위연산자 (이기적 / 나 먼저) <br>
+<img width="500" 
+src="https://github.com/Minchae128/TIL/assets/122027566/f03a39e8-021c-4e85-8987-94d832512e63">
+<br>
+
+- i++ : 후위연산자 (이타적 / 다른 거 먼저)<br>
+<img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/525cf88a-2210-4e89-be15-2715cbd30de5">
+
+<br>
+<span style="font-size: 25px;">++i 그리고 i++ <b>동작방식의 차이를 이해하고 사용하기!!</b></span>
+
 ## 4. Array 오름차순 정렬 VS Array 내림차순 정렬
+
+
 ## 5. Comparable
+
+
 ## 6. static 변수
+
+
 ## 7. for VS while
+
+
 ## 8. if VS switch
+
+
 ## 9. 정답을 XX을 나눈 나머지를 출력하세요.
+
+
 ## 10. ArrayList 배열
 
 # Reference
-* https://www.youtube.com/watch?v=x-cYdsjfVKU&list=PLFgS-xIWwNVXv1mM7cH1X4ycjB47z1EL-
+* https://www.youtube.com/playlist?list=PLFgS-xIWwNVXv1mM7cH1X4ycjB47z1EL-
