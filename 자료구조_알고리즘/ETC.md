@@ -100,7 +100,7 @@ src="https://github.com/Minchae128/TIL/assets/122027566/f03a39e8-021c-4e85-8987-
 
 > Ex)<br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/f420c611-1fc6-4a69-9d7e-347f7927a6f2"><br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/09c42358-0f55-4904-919d-c5885df947f7">
 <br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/edb3d676-c6f3-4c1d-b869-00309e13a727">
-<br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/8063c4d8-dada-4e13-8d4f-58c45b05bfd5">
+<br>내림차순으로 정렬할때<br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/8063c4d8-dada-4e13-8d4f-58c45b05bfd5">
 <br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/1fb93de9-d9cb-4805-922a-41c7ba6943f0">
 
 ## 6. static 변수
