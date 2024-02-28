@@ -43,7 +43,7 @@
 <img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/eace151c-6ce3-4f39-b7e9-fbd5c94d4d5f">
 <br><br>
 
-> **이럴 때 의심해보세요!!**
+**이럴 때 의심해보세요!!**
 <br>
 -> 시간 초과로 **실패**
 
@@ -71,13 +71,11 @@
 <span style="font-size: 25px;"><b>입력 데이터가 많다면 BufferedReader 사용!!</b></span>
 
 ## 3. ++i VS i++ 
-- ++i : 전위연산자 (이기적 / 나 먼저) <br>
+- ++i : 전위연산자 (이기적 / 나 먼저)<br>
 <img width="500" 
 src="https://github.com/Minchae128/TIL/assets/122027566/f03a39e8-021c-4e85-8987-94d832512e63">
-<br>
-
-- i++ : 후위연산자 (이타적 / 다른 거 먼저)<br>
-<img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/525cf88a-2210-4e89-be15-2715cbd30de5">
+<br><br>
+- i++ : 후위연산자 (이타적 / 다른 거 먼저)<br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/525cf88a-2210-4e89-be15-2715cbd30de5">
 
 <br>
 <span style="font-size: 25px;">++i 그리고 i++ <b>동작방식의 차이를 이해하고 사용하기!!</b></span>
