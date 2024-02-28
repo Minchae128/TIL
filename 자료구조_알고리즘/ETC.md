@@ -120,7 +120,7 @@ src="https://github.com/Minchae128/TIL/assets/122027566/f03a39e8-021c-4e85-8987-
 - for : 범위반복, 고정
 - while : 조건반복, 변동
 
-> 범위 반복<br>
+> **범위 반복**<br>
 //1~10까지 숫자를 출력하세요.
 <br>----------------------------------------------------<br>
 **[for]**<br>
@@ -132,12 +132,12 @@ for(int i = 0; 조건지정; 변수연산){<br>
 while(조건지정){<br>
     System.out.print(i);<br>
     변수연산<br>
-}<br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/4f7b9ebf-9f67-408a-bf4b-5b547e7af7e9">
+}<br><br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/4f7b9ebf-9f67-408a-bf4b-5b547e7af7e9">
+
+<br>
 
 
-
-
-> 조건 반복<br>
+> **조건 반복**<br>
 //Qurue가 비워질 때 까지 큐 내용을 반복하여 출력하세요.<br> 단 짝수가 들어왔을 경우 2로 나눈 몫을 큐에 삽입하세요.<br>
 Queue<Integer> queue = new LinkedList<Integer>();<br>
 queue.add(10);<br>
