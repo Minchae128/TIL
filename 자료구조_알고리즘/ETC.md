@@ -96,8 +96,15 @@ src="https://github.com/Minchae128/TIL/assets/122027566/f03a39e8-021c-4e85-8987-
  <br><br><img width="395" src="https://github.com/Minchae128/TIL/assets/122027566/3869fb4f-0bf0-4073-8ab1-7a0565f805b0">
  <br> 이방법은 -1을 곱하는것이 어려울 수 있다.
 
-## 5. Comparable
+## 5. Comparable (데이터 정렬)
+- sort : 단일 기준
+- Comparable : 정렬 기준이 여러 개
 
+> Ex)<br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/f420c611-1fc6-4a69-9d7e-347f7927a6f2"><br>
+<img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/09c42358-0f55-4904-919d-c5885df947f7">
+<br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/edb3d676-c6f3-4c1d-b869-00309e13a727">
+<br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/8063c4d8-dada-4e13-8d4f-58c45b05bfd5">
+<img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/1fb93de9-d9cb-4805-922a-41c7ba6943f0">
 
 ## 6. static 변수
 
