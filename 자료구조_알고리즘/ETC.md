@@ -109,8 +109,7 @@ src="https://github.com/Minchae128/TIL/assets/122027566/f03a39e8-021c-4e85-8987-
 
 > Ex)<br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/b9e848da-ec4d-4e60-9373-bb1a33329e10"><br>
 <img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/a579e061-9561-4b52-87c0-d1978dffa79a"><br>
-<img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/572dc180-eccd-400a-ae64-de468903235d"><br>
-<img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/d7bbe7f5-55d3-4b9c-a4ae-f7c4e711d208">
+<img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/572dc180-eccd-400a-ae64-de468903235d"><br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/d7bbe7f5-55d3-4b9c-a4ae-f7c4e711d208">
 
 <br>
 <span style="font-size: 25px;">하나의 변수를 여러 곳에서 써야할 <b>Static 변수</b>로 간편하게 사용하기!!</span>
