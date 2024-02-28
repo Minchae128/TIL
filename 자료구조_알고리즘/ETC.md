@@ -114,9 +114,55 @@ src="https://github.com/Minchae128/TIL/assets/122027566/f03a39e8-021c-4e85-8987-
 <br>
 <span style="font-size: 25px;">하나의 변수를 여러 곳에서 써야할 <b>Static 변수</b>로 간편하게 사용하기!!</span>
 
-
 ## 7. for VS while
+- 반복문
+- for == while 같은 기능을 함 But
+- for : 범위반복, 고정
+- while : 조건반복, 변동
 
+> 범위 반복<br>
+//1~10까지 숫자를 출력하세요.
+<br>----------------------------------------------------<br>
+**[for]**<br>
+for(int i = 0; 조건지정; 변수연산){<br>
+    System.out.print(i);<br>
+}<br><br>
+**[while]**<br>
+변수초기화<br>
+while(조건지정){<br>
+    System.out.print(i);<br>
+    변수연산<br>
+}<br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/4f7b9ebf-9f67-408a-bf4b-5b547e7af7e9">
+
+
+
+
+> 조건 반복<br>
+//Qurue가 비워질 때 까지 큐 내용을 반복하여 출력하세요.<br> 단 짝수가 들어왔을 경우 2로 나눈 몫을 큐에 삽입하세요.<br>
+Queue<Integer> queue = new LinkedList<Integer>();<br>
+queue.add(10);<br>
+queue.add(5);<br>
+queue.add(4);<br>
+<br>----------------------------------------------------<br>
+**[for]**<br>
+for(변수초기화; 조건지정; 변수연산){<br>
+    int value = queue.poll();<br>
+    if(value % 2 == 0){<br>
+        queue.add(value/2);<br>
+    }<br>
+    System.out.print(value + " ");<br>
+}<br><br>
+**[while]**<br>
+while(조건지정){<br>
+int value = queue.poll();<br>
+if(value % == 0){<br>
+queue.add(value/2);
+}
+System.out.print(value + " ");<br>
+}<br><br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/b6bfcb70-2d04-4bd9-a313-02dae6a32305">
+
+<br>
+<span style="font-size: 25px;"> for와 while는 기능면에서는 똑같이 구현 가능하다 하지만! <b>구현 형태와 반복 편의성을 위해</b> 적절하게 사용하기!!</span>
 
 ## 8. if VS switch
 
