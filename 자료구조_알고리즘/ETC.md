@@ -165,7 +165,21 @@ System.out.print(value + " ");<br>
 <span style="font-size: 25px;"> for와 while는 기능면에서는 똑같이 구현 가능하다 하지만! <b>구현 형태와 반복 편의성을 위해</b> 적절하게 사용하기!!</span>
 
 ## 8. if VS switch
+- 제어문
+- if == switch 같은 기능을 함 But
+- if : 자유도 높은 제어
+- switch : 하나의 값에 대한 제어
 
+> **변수 하나의 값에 대한 제어**<br>
+//키보드 입력 값에 따라 캐릭터를 이동해보자.
+<br>----------------------------------------------------<br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/4edd06bb-87f9-4694-92e3-1385a1f51665">
+
+> **변수 범위에 대한 제어**<br>
+//입력된 점수에 따라 A B C를 출력하보자.<br> A : 91~100 B : 81~90 C : 80점 이하 
+<br>----------------------------------------------------<br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/8334c56e-916a-4fcf-a61e-7e9edf8e7679">
+
+<br>
+<span style="font-size: 25px;"> if와 switch는 기능면에서는 똑같이 구현 가능하다 하지만! <b>제어 타입에 따라</b> 적절하게 사용하기!!</span>
 
 ## 9. 정답을 XX을 나눈 나머지를 출력하세요.
 
