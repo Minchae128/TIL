@@ -192,12 +192,11 @@ System.out.print(value + " ");<br>
 - 자바에서 대부분의 그래프 데이터를 저장하는 자료구조(인접리스트)
 
 > <img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/efca1605-1336-4cf3-9479-69e32bf44104"><br>
-<img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/ebcdb734-01c4-454c-a23c-7c281e9b054d"><br>
-<img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/072da38a-af59-4aca-a20d-a37851cea6ff">
+<img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/ebcdb734-01c4-454c-a23c-7c281e9b054d"><br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/072da38a-af59-4aca-a20d-a37851cea6ff">
 
 
 <br>
-<span style="font-size: 25px;">그래프 문제 풀리를 위해 사용 방법 숙지하기!!</span>
+<span style="font-size: 25px;">그래프 문제 풀기 위해 사용 방법 숙지하기!!</span>
 
 # Reference
 * https://www.youtube.com/playlist?list=PLFgS-xIWwNVXv1mM7cH1X4ycjB47z1EL-
