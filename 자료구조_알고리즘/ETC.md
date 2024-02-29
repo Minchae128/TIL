@@ -182,6 +182,11 @@ System.out.print(value + " ");<br>
 <span style="font-size: 25px;"> if와 switch는 기능면에서는 똑같이 구현 가능하다 하지만! <b>제어 타입에 따라</b> 적절하게 사용하기!!</span>
 
 ## 9. 정답을 XX을 나눈 나머지를 출력하세요.
+- 정답이 변수가 표현하는 범위를 넘어가는 경우
+- **MOD 연산의 특성을 이용**<br>
+> 5 MOD 3  = 5를 2으로 나눈 나머지 = 5 % 3 = 2
+
+> **MOD 연산의 특성**<br>[덧셈]<br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/faeb2acd-4501-4b39-8298-1472629ce13c"><br>[뺄셈]<br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/6b296923-cdaa-4a92-827f-0afad7a3397d"><br>[곱셈]<br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/038ad778-14e3-4cf9-9636-1376624adfc0"><br>[나눗셈]<br><img width="500" src="https://github.com/Minchae128/TIL/assets/122027566/6b7dedd1-4118-4f61-a9f9-154d3251abf3"><br>- [덧셈], [뺄셈], [곱셈]에 대해서 분배 법칙이 성립한다.<br>- "정답을 XX로 나눈 나머지를 출력하세요"는 <br>&nbsp;&nbsp;&nbsp;**== 정답을 구하고 %연산을 하는게 아니라, step마다 %연산을 하면서 문제를 풀어야 한다.**
 
 
 ## 10. ArrayList 배열
